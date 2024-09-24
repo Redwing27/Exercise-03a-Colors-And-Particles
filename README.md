@@ -1,6 +1,6 @@
 # Exercise03a-Colors-And-Particles
 
-Exercise for MSCH-C220
+Exercise for Redwing27
 
 The first steps in adding "juicy" features to a simple brick-breaker game.
 
